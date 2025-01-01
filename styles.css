@@ -1,0 +1,22 @@
+
+.all {
+    background-color: black;
+}
+
+.lead {
+    background-color: red;
+}
+
+.odd {
+    background-color: pink;
+}
+
+.item {
+    font-style: italic;
+    color: white;
+}
+
+a:visited {
+    color: grey;
+
+}
